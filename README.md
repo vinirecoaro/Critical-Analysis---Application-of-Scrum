@@ -1,2 +1,11 @@
 # Critical-Analysis---Application-of-Scrum
 O case analisado é de uma empresa holandesa de vias ferroviárias. O projeto consistia no desenvolvimento de um sistema capaz de controlar de forma centralizada a exibição de informações e a transmissões de áudio para todas as estações.
+
+Em um primeiro momento a empresa optou por utilizar uma abordagem tradicional em cascata onde foram entregues aos fornecedores do serviço especificações detalhadas de requisitos com o objetivo de ter pouco envolvimento do cliente com os desenvolvedores. O resultado foi que após 3 anos de desenvolvimento o projeto foi cancelado porque o fornecedor não conseguiu entregar um sistema funcional. Foi então que decidiram implementar a metodologia Scrum com o objetivo de estar sempre acompanhando a evolução do desenvolvimento.
+
+	Para começar o projeto foi feito um kick-off de três semanas para configurar tudo o que fosse necessário antes do início da primeira sprint. Um grande desafio para este projeto foi a definição do PO porque não eles não dispunham de uma pessoa que atendia os fatores de tempo e conhecimento de domínio, para sanar este problema a saída foi definir dois PO para atender os requisitos, o que não é o indicado pelo framework Scrum, porém foi uma adaptação necessária. Outra dificuldade encontrada foi na definição do product backlog, está função é do PO, porém como os PO’s nomeados não tinham experiência na definição de pequenos blocos de tarefas que possam executados dentro de uma sprint, o Scrum master auxiliou nas definições iniciais, o que também foge um pouco da definição da função de um Scrum master segundo o guia Scrum. Após os ajustes iniciais a adoção do Scrum se mostrou muito promissor, visto que ao passa que o projeto foi evoluindo houve também um aumento no número de Scrum teams.
+  
+	O resultado obtido a partir da implementação do Scrum foi a obtenção de um sistema com ótima manutenibilidade e alta qualidade de código-fonte, o que gerou grande satisfação por parte do cliente. O mais importante foi que os fatores de sucesso eram discutidos regularmente com o cliente o que contribuiu para um desenvolvimento mais assertivo.
+  
+	Um ponto que poderia ser melhorado para este case seria a estruturação de times que falassem uma língua em comum para evitar uma sobrecarga de comunicação, que foi um dos problemas apresentados.
+
